@@ -12,6 +12,7 @@
 
 ### Установка git на ваш ПК
 
+<<<<<<< HEAD
 1. Если Вы хотите получить более актуальную версию, то можете воспользоваться бинарным установщиком. Установщик Git для OS X доступен для скачивания с сайта Git https://git-scm.com/download/mac.
 
 2. Многие предпочитают устанавливать Git из исходников, поскольку такой способ позволяет получить самую свежую версию. Обновление бинарных инсталляторов, как правило, немного отстаёт, хотя в последнее время разница не столь существенна.
@@ -21,6 +22,8 @@ $ sudo dnf install dh-autoreconf curl-devel expat-devel gettext-devel \
 $ sudo apt-get install dh-autoreconf libcurl4-gnutls-dev libexpat1-dev \
   gettext libz-dev libssl-dev
 
+=======
+>>>>>>> parent of 49bbf88 (Update GitInstruction.md)
 #### Первая настройка git
 
 ## Создание и базовая работа с локальным репозиторием.
