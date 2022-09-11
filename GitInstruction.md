@@ -40,4 +40,8 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+<code>[Гайд Ильнара](https://gb.ru/posts/soveti-pro-git)</code>
+
+<code>[Синтаксис маркдаун](https://gist.github.com/Jekins/2bf2d0638163f1294637)</code>
+
 ## Альтернативные системы контроля версий.
