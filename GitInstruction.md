@@ -1,7 +1,7 @@
 # Инструкция по работе с git
 
 ## Что это и для чего нужна система контроля версий?
-
+sistema vetvleniya repozitoriya,Dlya sohraneniya predydushih versiy, i bezopasnoy raboty s versiyami, dly raboty v komande.
 ### Что такое система контроля версий?
 
 ### Для чего нужна система контроля версий
