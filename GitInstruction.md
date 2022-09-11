@@ -15,9 +15,9 @@
 #### Первая настройка git
     При первой настройке понадобится выполнить команды в консоли, которые зададут имя пользователя и почтовый ящик.
 
-    > *git config --global user.name "user-name"*
+> git config --global user.name "user-name"
 
-    > *git config --global user.email email@example.com*
+> git config --global user.email email@example.com
 
 ## Создание и базовая работа с локальным репозиторием.
 
