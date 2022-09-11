@@ -86,6 +86,8 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+
+
 ## Альтернативные системы контроля версий.
 ![avatar](https://habrastorage.org/r/w1560/webt/qz/dw/rb/qzdwrbbdhb9dr6yt-djvlqiaa30.jpeg)
 
