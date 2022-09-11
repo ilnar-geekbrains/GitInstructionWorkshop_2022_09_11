@@ -26,6 +26,15 @@
 
 ### Базовая работа с ветками в git.
 
+* **_git branch_** - Выводим список веток в репозитории
+* **_git branch new_branch_name_** - Создаем новую ветку с именем new_branch_name
+* **_git branch -d branch_to_delete_** - Удаляем ветку с именем new_branch_name
+* **_git checkout branch_name_** - Переходим на ветку
+* **_git checkout -b branch_name_** - Создаем и переходим на ветку
+* **_git log –graph_** - Выводим список коммитов в виде красивого графа/дерева
+* **_git merge branch_name_** - Сливает ветку branch_name с текущей веткой
+
+
 ## Работа с удаленными репозиториями.
 
 ### Что такое удаленный репозиторий и для чего он нужен
