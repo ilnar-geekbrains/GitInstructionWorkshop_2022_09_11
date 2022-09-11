@@ -20,6 +20,15 @@
 
 ### Базовая работа с локальным репозиторием
 
+To create a local repo select folder on your PC and use **git init** 
+
+Useful commands:
+**git log**
+**git status**
+**git checkout**
+**git add**
+**git commit -m "*some message*"**
+
 ## Ветки. Локальная работа с ветками в git.
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
