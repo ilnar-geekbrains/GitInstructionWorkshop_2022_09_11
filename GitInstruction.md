@@ -41,5 +41,8 @@
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
+    https://www.atlassian.com/ru/git/tutorials/what-is-git
+    https://habr.com/ru/post/541258/
+    https://habr.com/ru/post/542616/
 
 ## Альтернативные системы контроля версий.
