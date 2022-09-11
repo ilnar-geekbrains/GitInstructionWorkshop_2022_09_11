@@ -40,4 +40,8 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+* https://learngitbranching.js.org/?locale=ru_RU
+* https://gb.ru/posts/soveti-pro-git
+
+
 ## Альтернативные системы контроля версий.
