@@ -20,6 +20,8 @@
 
 ### Базовая работа с локальным репозиторием
 
+[![Лекция 2](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png)](https://youtu.be/nohnz2GBA_4)
+
 ## Ветки. Локальная работа с ветками в git.
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
