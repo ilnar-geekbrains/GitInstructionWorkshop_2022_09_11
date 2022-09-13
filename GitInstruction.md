@@ -11,6 +11,9 @@
 ## Установка git и VSCode на ваш ПК.
 
 ### Установка VSCode на ваш ПК.
+com.visualstudio.code - скачать пакет
+cd ~Downloads/
+sudo dpkg -i <имя пакета>
 
 ### Установка git на ваш ПК
 
