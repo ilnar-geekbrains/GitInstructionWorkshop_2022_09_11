@@ -70,7 +70,8 @@ Install VSCode on your laptop. Its pretty easy
 
 ### Что такое удаленный репозиторий и для чего он нужен
 
-Its necessary in orden to work in team
+Its necessary in orden to work in team.
+Something else.
 
 ### Базовая работа с удаленными репозиториями GitHub
 
