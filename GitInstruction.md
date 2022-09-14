@@ -84,6 +84,12 @@
 ● Отправляем свою версию в свой GitHub
 ● На сайте GitHub нажимаем кнопку pull request 
 
+Как сделать pull request
+● Делаем fork репозитория
+● Делаем clone СВОЕЙ версии репозитория
+● Создаем новую ветку и в НЕЕ вносим свои изменения
+● На сайте GitHub нажимаем кнопку pull request 
+
 ## Книги и полезные ссылки по изучению git.
 * [habr](https://habr.com/ru/post/273897/)
 * [Git для профессионалов](https://gbcdn.mrgcdn.ru/uploads/asset/4245110/attachment/d4eb8c232f8f2bdf4e42ba7cb49e0c50.pdf)
